@@ -9,9 +9,9 @@
   * Beans, Peas, Lentils (many varieties of each)
 3. Veggies
   * Raw or Lightly Cooked (Steamed, Sautéed, Oven Roasted)
-  * Spinach, Arugula, Kale, Romaine, Cilantro, Celery, Carrots, Broccoli, Squash, Zucchini, Cucumber, Mushrooms, Tomatoes, Onions, Bell Peppers, Jalapeño, Basil, Eggplant, Potatoes, Sweet Potatoes, Butternut Squash, Beets, Brussel Sprouts ... all veggies are welcome!
+  * Spinach, Arugula, Kale, Romaine, Celery, Carrots, Broccoli, Squash, Zucchini, Cucumber, Mushrooms, Tomatoes, Onions, Bell Peppers, Jalapeño, Eggplant, Potatoes, Sweet Potatoes, Butternut Squash, Beets, Brussel Sprouts ... all veggies are welcome!
 5. Delicious Extras
-  * Avocado, Nutritional yeast, Hummus, Lemon and Lime juice, Tahini, Miso, Black and Red Pepper, Sea Salt, Cumin, Hot sauce, Soy sauce, Sesame seeds
+  * Avocado, Nutritional yeast, Hummus, Lemon and Lime juice, Cilantro, Basil, Tahini, Miso, Black and Red Pepper, Sea Salt, Cumin, Hot sauce, Soy sauce, Sesame seeds
 
 ### Preparation Options
   * Classic bowl - *rice or quinoa base*

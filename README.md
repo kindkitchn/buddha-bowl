@@ -4,14 +4,14 @@
 *These are suggestions, not rules. Be creative. The possible combinations are endless.*
 
 1. Grains
-  * Rice (many varieties), Quinoa (many varieties), Brown Rice Pasta (many forms)
+   * Rice (many varieties), Quinoa (many varieties), Brown Rice Pasta (many forms)
 2. Legumes
-  * Beans, Peas, Lentils (many varieties of each)
+   * Beans, Peas, Lentils (many varieties of each)
 3. Veggies
-  * Raw or Lightly Cooked (Steamed, Sautéed, Oven Roasted)
-  * Spinach, Arugula, Kale, Romaine, Celery, Carrots, Broccoli, Squash, Zucchini, Cucumber, Mushrooms, Tomatoes, Onions, Bell Peppers, Jalapeño, Eggplant, Potatoes, Sweet Potatoes, Butternut Squash, Beets, Brussel Sprouts ... all veggies are welcome!
-5. Delicious Extras
-  * Avocado, Nutritional yeast, Hummus, Lemon and Lime juice, Cilantro, Basil, Tahini, Miso, Black and Red Pepper, Sea Salt, Cumin, Hot sauce, Soy sauce, Sesame seeds
+   * Raw or Lightly Cooked (Steamed, Sautéed, Oven Roasted)
+   * Spinach, Arugula, Kale, Romaine, Celery, Carrots, Broccoli, Squash, Zucchini, Cucumber, Mushrooms, Tomatoes, Onions, Bell Peppers, Jalapeño, Eggplant, Potatoes, Sweet Potatoes, Butternut Squash, Beets, Brussel Sprouts ... all veggies are welcome!
+4. Delicious Extras
+   * Avocado, Nutritional yeast, Hummus, Lemon and Lime juice, Cilantro, Basil, Tahini, Miso, Black and Red Pepper, Sea Salt, Cumin, Hot sauce, Soy sauce, Sesame seeds
 
 ### Preparation Options
   * Classic bowl - *rice or quinoa base*
